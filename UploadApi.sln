@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadApi", "UploadApi\UploadApi.csproj", "{44031E37-5CC4-4034-8E54-B40695FC6BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadWebClient", "UploadWebClient\UploadWebClient.csproj", "{A43B8AEC-1BB7-4688-8D3C-AABBED1C9C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadApiWPFClient", "UploadApiWPFClient\UploadApiWPFClient.csproj", "{DEE8CCE6-4B7E-40FC-8261-82CE74197D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44031E37-5CC4-4034-8E54-B40695FC6BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44031E37-5CC4-4034-8E54-B40695FC6BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44031E37-5CC4-4034-8E54-B40695FC6BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44031E37-5CC4-4034-8E54-B40695FC6BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43B8AEC-1BB7-4688-8D3C-AABBED1C9C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43B8AEC-1BB7-4688-8D3C-AABBED1C9C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43B8AEC-1BB7-4688-8D3C-AABBED1C9C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43B8AEC-1BB7-4688-8D3C-AABBED1C9C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE8CCE6-4B7E-40FC-8261-82CE74197D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE8CCE6-4B7E-40FC-8261-82CE74197D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE8CCE6-4B7E-40FC-8261-82CE74197D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE8CCE6-4B7E-40FC-8261-82CE74197D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
